@@ -24,7 +24,7 @@
 
 ## Description
 
-[AppStore]() ⇒ App loja virtual.
+[AppStore]() ⇒ Simple Store virtual.
 
 ## Installation
 
